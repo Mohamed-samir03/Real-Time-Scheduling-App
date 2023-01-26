@@ -8,9 +8,11 @@
 
   - Static table-driven
 
-![2](https://user-images.githubusercontent.com/81251707/214865382-b395f7dd-a620-4515-8dd2-c0adc5ad8d1e.jpg)
-![3](https://user-images.githubusercontent.com/81251707/214865386-b2db5e77-6dde-455e-9686-3c9c8b17dbf9.jpg)
-![4](https://user-images.githubusercontent.com/81251707/214865391-3827090d-4ba8-44c5-bdcb-bfe3ece0104f.jpg)
+<div align=center>
+        <img src="https://user-images.githubusercontent.com/81251707/214865382-b395f7dd-a620-4515-8dd2-c0adc5ad8d1e.jpg" height="400" width="200">
+        <img src="https://user-images.githubusercontent.com/81251707/214865386-b2db5e77-6dde-455e-9686-3c9c8b17dbf9.jpg" height="400" width="200">
+        <img src="https://user-images.githubusercontent.com/81251707/214865391-3827090d-4ba8-44c5-bdcb-bfe3ece0104f.jpg" height="400" width="200">
+</div>
 
   - Static priority-driven preemptive
   

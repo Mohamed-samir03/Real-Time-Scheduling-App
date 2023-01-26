@@ -2,7 +2,9 @@
 - **Android** 
 - **Kotlin**
 
-![1](https://user-images.githubusercontent.com/81251707/214865310-4b59aeeb-080f-4f4e-8697-d348f033d26b.jpg)
+<div align=center>
+        <img src="[https://user-images.githubusercontent.com/81251707/170893391-366785e3-ce83-40de-9e6f-a6ed864a79f0.jpg](https://user-images.githubusercontent.com/81251707/214865310-4b59aeeb-080f-4f4e-8697-d348f033d26b.jpg)" alt="splash page" height="400" width="200">
+</div>
 
   - Static table-driven
 
